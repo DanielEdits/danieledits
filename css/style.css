@@ -35,15 +35,16 @@
 .dark-theme{
     /*Main Theme Colors*/
     --first-color: #fff;
-    --second-color: #4e3eaa;
-    --third-color: #9ea2b2;
+    --second-color: #666666;
+    --third-color: #d3d3d3;
  
     /*Background Colors*/
-    --body-bg-color: #0b1525;
-    --card-bg-color: #121f3f;
-    --modal-bg-color: #0a1d4b;
+    --body-bg-color: #171717;
+    --card-bg-color: #212121;
+    --modal-bg-color: #212121;
     --bg-transparent-color: rgba(255, 255, 255, 0.1);
     --transparent-color-01: rgba(255, 255, 255, 0.1);
+    --transparent-color-02: rgba(205, 205, 205, 0.315);
     --line-color: #3a4259;
 
     /*Color Filter*/
